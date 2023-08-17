@@ -25,8 +25,8 @@ A simple qr component scanner design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://https://github.com/kxn69/qr-code-component)
-- Live Site URL: [Add live site URL here](https://kxn69.github.io/qr-code-component/)
+- Solution URL: [github](https://https://github.com/kxn69/qr-code-component)
+- Live Site URL: [qr-code-component](https://kxn69.github.io/qr-code-component/)
 
 ### Built with
 
