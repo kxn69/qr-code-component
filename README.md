@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-    A simple qr component scanner design
+A simple qr component scanner design
 
 ### Screenshot
 
@@ -26,14 +26,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://https://github.com/kxn69/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://kxn69.github.io/qr-code-component/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-- [Styled Components](https://fonts.google.com/specimen/Outfit) - For styles
+- [Google Font - Outfit](https://fonts.google.com/specimen/Outfit) - For styles
 
 ### What I learned
 
@@ -45,7 +45,7 @@ I'd like to continue harnessing more css knowledge to be better equipped with st
 
 ### Useful resources
 
-- [resource 1](https://www.w3schools.com/) - This helped me have more knowledge to box shadows
+- [w3schools](https://www.w3schools.com/) - This helped me have more knowledge to box shadows
 
 ## Author
 
